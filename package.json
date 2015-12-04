@@ -23,7 +23,7 @@
     },
     "dependencies": {
         "grunt": ">=0.4.1",
-        "js-beautify": "github.com/beautify-web/js-beautify.git",
+        "js-beautify": "git@github.com:beautify-web/js-beautify.git",
         "lodash": ">=2.4.1",
         "rc": ">=0.5.5",
         "semver": ">=4.3.1",
